@@ -1,0 +1,245 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Proxima Nova", sans-serif;
+}
+header {
+    color: white;
+    text-align: center;
+    background-image: url(../images/payments-banner-graphic.png);
+    height: 603px;
+}
+#head_top {
+    padding: 1em;
+}
+#head_top p {
+    float: left;
+}
+#head_top .lien1 {
+    float: right;
+    color: white;
+    text-decoration: none;
+}
+header h1 {
+    padding-top: 7em;
+}
+header #head_button {
+    color: #7F7FB2;
+    background-color: #FEFEFE;
+    padding: 14px 55px;
+    text-decoration: none;
+    border-radius: 5px;
+    line-height: 20em;
+}
+#section1 {
+    height: 313px;
+    padding-top: 8em;
+}
+#section1 div {
+    display: inline-block;
+    width: 33%;
+    margin: auto;
+    text-align: center;
+}
+#beautiful {
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+}
+#section3 {
+    height: 313px;
+    background-color: #F6F9FB;
+    border-top: 1px solid grey;
+    text-align: center;
+}
+#simple {
+    width: 20%;
+    margin: auto;
+    margin-top: 3em;
+    color: #919192;
+}
+#pay {
+    width: 20%;
+    margin: auto;
+    margin-bottom: 3em;
+    color: #919192;
+}
+#per_paid {
+    width: 350px;
+    margin: auto;
+}
+#per_paid span {
+    float: left;
+    font-size: 70px;
+    color: #8080BE;
+}
+#per_paid h2 {
+    font-size: 30px;
+    font-weight: lighter;
+}
+#per_paid p {
+    color: #919192;
+    font-size: 12px;
+    margin-right: 9em;
+    margin-top: 1em;
+}
+#section4 {
+    height: 90px;
+    color: white;
+    background-color: #4B525B;
+    text-align: center;
+}
+#section4 p {
+    line-height: 6em;
+}
+#section5 {
+    height: 111em;
+}
+#partie1 {
+    background-color: #7CD5EF;
+    width: 50%;
+    float: left;
+    height: 590px;
+}
+#partie1 img {
+    margin: auto;
+    margin-left: 9%;
+    margin-top: 27%;
+}
+#partie2 {
+    float: right;
+    width: 50%;
+    height: 590px;
+}
+#partie2 h3 {
+    width: 57%;
+    margin: auto;
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 20%;
+}
+#partie2 p {
+    width: 57%;
+    margin: auto;
+    margin-top: 10%;
+    color: #D3D3D3;
+    letter-spacing: 1px;
+}
+#partie3 {
+    width: 50%;
+    float: left;
+    height: 590px;
+}
+#partie3 h3 {
+    width: 57%;
+    margin: auto;
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 20%;
+}
+#partie3 p {
+    width: 57%;
+    margin: auto;
+    margin-top: 10%;
+    color: #D3D3D3;
+    letter-spacing: 1px;
+}
+#partie4 {
+    float: left;
+    width: 50%;
+    background-color: #8080BE;
+}
+#partie4 img {
+    margin: auto;
+    margin-left: 9%;
+    margin-top: 27%;
+}
+#partie5 {
+    background-color: #7CD5EF;
+    width: 50%;
+    float: left;
+    height: 590px;
+}
+#partie5 img {
+    margin: auto;
+    margin-left: 9%;
+    margin-top: 27%;
+}
+#partie6 {
+    float: right;
+    width: 50%;
+    height: 590px;
+}
+#partie6 h3 {
+    width: 57%;
+    margin: auto;
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 20%;
+}
+#partie6 p {
+    width: 57%;
+    margin: auto;
+    margin-top: 10%;
+    color: #D3D3D3;
+    letter-spacing: 1px;
+}
+#section6 {
+    height: 285px;
+    background-color: #FCFCFC;
+    text-align: center;
+}
+#section6 p {
+    width: 36%;
+    margin: auto;
+    margin-top: 0em;
+    padding-top: 2em;
+    font-size: 2em;
+}
+#section6 a {
+    color: white;
+    background-color: #00B088;
+    padding: 14px 55px;
+    text-decoration: none;
+    border-radius: 5px;
+    line-height: 4em;
+}
+footer {
+    height: 400px;
+    background-color: #242629;
+}
+footer .list {
+    width: 80%;
+    margin: auto;
+}
+#list {
+    padding-top: 4em;
+}
+#list ul {
+    list-style: none;
+    width: 30%;
+    display: inline-block;
+}
+#list ul li {
+    width: 30%;
+    margin: auto;
+    line-height: 3em;
+}
+#list ul li a {
+    text-decoration: none;
+    color: white;
+}
+#list ul li .lgrey {
+    color: #C4C4C4;
+}
+#fin {
+    width: 80%;
+    margin: auto;
+}
+footer p {
+    color: #C4C4C4;
+    font-size: 13px;
+    width: 60%;
+    margin: auto;
+    padding-top: 3em;
+    display: inline-block;
+}
